@@ -35,3 +35,9 @@ A simple 2D skiing game created using C++ and the SDL3 library. Players control 
   - Type: 16-bit (8-bit style) loop
   - License: Free with credit (CC 4.0)
   - [Link](https://freesound.org/people/joshuaempyre/sounds/251461/)
+
+  ## Images:
+  ![Map1](https://i.imgur.com/RGPIwjy.png)
+  ![DieScreen](https://i.imgur.com/1yW76E6.png)
+  ![MainMenu](https://i.imgur.com/w36ace6.png)
+  ![ImGui1](https://i.imgur.com/D526c35.png)
