@@ -1,6 +1,6 @@
-# A Simple 2D Skiing Game
+# A 2D Skiing Mini Game
 
-A simple 2D skiing game created using C++ and the SDL3 library. Players control a skier descending a mountain, avoiding obstacles to score points. The objective is to survive as long as possible. Colliding with an obstacle results in a game over, displaying the player's score with an option to restart.
+A 2D skiing mini game created using C++ and the SDL3 library. Players control a skier descending a mountain, avoiding obstacles to score points. The objective is to survive as long as possible. Colliding with an obstacle results in a game over, displaying the player's score with an option to restart.
 
 ## Features:
 - **Skiing Gameplay**: Navigate a skier down a mountain, avoiding obstacles while the speed increases over time.
